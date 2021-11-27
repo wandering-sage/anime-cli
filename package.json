@@ -1,0 +1,19 @@
+{
+  "name": "anime-cli",
+  "version": "1.0.0",
+  "description": "A cli to watch anime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandering-sage/anime-cli.git"
+  },
+  "author": "wandering-sage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wandering-sage/anime-cli/issues"
+  },
+  "homepage": "https://github.com/wandering-sage/anime-cli#readme"
+}
