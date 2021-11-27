@@ -1,7 +1,7 @@
 {
   "name": "anime-cli",
   "version": "1.0.0",
-  "description": "A cli to watch anime",
+  "description": "A command-line interface to watch anime",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wandering-sage/anime-cli/issues"
   },
-  "homepage": "https://github.com/wandering-sage/anime-cli#readme"
+  "homepage": "https://github.com/wandering-sage/anime-cli#readme",
+  "devDependencies": {
+    "pkg": "^5.4.1"
+  }
 }
